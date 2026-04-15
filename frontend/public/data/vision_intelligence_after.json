@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-04-15T19:07:45.268987",
+  "aesthetic_share": [
+    {
+      "name": "Clean Girl",
+      "value": 30,
+      "fill": "#f4d2d8"
+    },
+    {
+      "name": "Bold Pigment",
+      "value": 45,
+      "fill": "#e02a27"
+    },
+    {
+      "name": "Grunge",
+      "value": 5,
+      "fill": "#333333"
+    },
+    {
+      "name": "Skincare Hybrid",
+      "value": 20,
+      "fill": "#e5e7eb"
+    }
+  ],
+  "competitor_analysis": {
+    "platform": "TikTok",
+    "competitor_focus": [
+      "Rare Beauty",
+      "Milk Makeup"
+    ],
+    "trend_shift_detected": false,
+    "insights": [
+      {
+        "trait": "Bold Pigment / Saturated Colors",
+        "change": "-5%",
+        "impact": "Low",
+        "description": "Glossier's new pigmented drops taking share of this aesthetic."
+      },
+      {
+        "trait": "Hybrid Skincare/Color Looks",
+        "change": "+20%",
+        "impact": "High",
+        "description": "The new emerging trend marrying skincare routines with color prep."
+      }
+    ],
+    "visual_references": [
+      "tiktok_glossier_bold.mp4"
+    ]
+  }
+}

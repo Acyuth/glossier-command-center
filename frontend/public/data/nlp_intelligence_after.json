@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-04-15T19:07:45.210916",
+  "kpis": {
+    "share_of_voice": "41.8%",
+    "total_mentions": "156.2K",
+    "avg_sentiment": "82/100",
+    "sentiment_delta": "+14.0%"
+  },
+  "brand_sentiment": [
+    {
+      "name": "Glossier",
+      "score": 82,
+      "volume": 14000
+    },
+    {
+      "name": "Rare Beauty",
+      "score": 86,
+      "volume": 18200
+    },
+    {
+      "name": "Milk Makeup",
+      "score": 74,
+      "volume": 9100
+    }
+  ],
+  "sentiment_history": [
+    {
+      "month": "Jul",
+      "Glossier": 70,
+      "Rare Beauty": 87,
+      "Milk Makeup": 75
+    },
+    {
+      "month": "Aug",
+      "Glossier": 74,
+      "Rare Beauty": 86,
+      "Milk Makeup": 76
+    },
+    {
+      "month": "Sep",
+      "Glossier": 77,
+      "Rare Beauty": 86,
+      "Milk Makeup": 75
+    },
+    {
+      "month": "Oct",
+      "Glossier": 79,
+      "Rare Beauty": 87,
+      "Milk Makeup": 74
+    },
+    {
+      "month": "Nov",
+      "Glossier": 81,
+      "Rare Beauty": 86,
+      "Milk Makeup": 74
+    },
+    {
+      "month": "Dec",
+      "Glossier": 82,
+      "Rare Beauty": 86,
+      "Milk Makeup": 74
+    }
+  ],
+  "brand_attributes": [
+    {
+      "attribute": "Pigment",
+      "Glossier": 85,
+      "Rare Beauty": 92,
+      "Milk Makeup": 72
+    },
+    {
+      "attribute": "Blendability",
+      "Glossier": 88,
+      "Rare Beauty": 82,
+      "Milk Makeup": 75
+    },
+    {
+      "attribute": "Longevity",
+      "Glossier": 75,
+      "Rare Beauty": 86,
+      "Milk Makeup": 68
+    },
+    {
+      "attribute": "Packaging",
+      "Glossier": 85,
+      "Rare Beauty": 90,
+      "Milk Makeup": 80
+    },
+    {
+      "attribute": "Value",
+      "Glossier": 78,
+      "Rare Beauty": 84,
+      "Milk Makeup": 75
+    }
+  ],
+  "anomalies": [
+    {
+      "id": "anomaly_1_after",
+      "source": "TikTok / Reddit",
+      "topic": "Glossier 'Pigment Plus' Campaign",
+      "sentiment": "Highly Positive",
+      "insight": "Campaign directly addressed pigment concerns. Strong conversion observed.",
+      "severity": "Low",
+      "brand": "Glossier"
+    },
+    {
+      "id": "anomaly_2_after",
+      "source": "Sephora Reviews",
+      "topic": "Glossier Complexion Products",
+      "sentiment": "Neutral",
+      "insight": "Focus shifting from blush pigment to skin tint coverage.",
+      "severity": "Low",
+      "brand": "Glossier"
+    }
+  ]
+}

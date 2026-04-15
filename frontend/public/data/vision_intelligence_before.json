@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-04-15T19:07:45.268975",
+  "aesthetic_share": [
+    {
+      "name": "Clean Girl",
+      "value": 45,
+      "fill": "#f4d2d8"
+    },
+    {
+      "name": "Bold Pigment",
+      "value": 35,
+      "fill": "#e02a27"
+    },
+    {
+      "name": "Grunge",
+      "value": 12,
+      "fill": "#333333"
+    },
+    {
+      "name": "Skincare Hybrid",
+      "value": 8,
+      "fill": "#e5e7eb"
+    }
+  ],
+  "competitor_analysis": {
+    "platform": "TikTok",
+    "competitor_focus": [
+      "Rare Beauty",
+      "Milk Makeup"
+    ],
+    "trend_shift_detected": true,
+    "insights": [
+      {
+        "trait": "Bold Pigment / Saturated Colors",
+        "change": "+45%",
+        "impact": "High",
+        "description": "Creators using saturated blush tones in heavy lighting."
+      },
+      {
+        "trait": "Clean Girl Aesthetic (Sheer/Dewy)",
+        "change": "-30%",
+        "impact": "Medium",
+        "description": "Drop in 'no-makeup' makeup looks across top 100 beauty influencers."
+      }
+    ],
+    "visual_references": [
+      "tiktok_rare_beauty_viral.mp4",
+      "tiktok_milk_lipcheek.mp4"
+    ]
+  }
+}

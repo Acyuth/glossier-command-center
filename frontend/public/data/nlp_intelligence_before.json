@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-04-15T19:07:45.210892",
+  "kpis": {
+    "share_of_voice": "34.2%",
+    "total_mentions": "124.5K",
+    "avg_sentiment": "68/100",
+    "sentiment_delta": "-4.5%"
+  },
+  "brand_sentiment": [
+    {
+      "name": "Glossier",
+      "score": 68,
+      "volume": 12400
+    },
+    {
+      "name": "Rare Beauty",
+      "score": 88,
+      "volume": 18500
+    },
+    {
+      "name": "Milk Makeup",
+      "score": 75,
+      "volume": 9200
+    }
+  ],
+  "sentiment_history": [
+    {
+      "month": "Jan",
+      "Glossier": 76,
+      "Rare Beauty": 84,
+      "Milk Makeup": 70
+    },
+    {
+      "month": "Feb",
+      "Glossier": 75,
+      "Rare Beauty": 85,
+      "Milk Makeup": 71
+    },
+    {
+      "month": "Mar",
+      "Glossier": 73,
+      "Rare Beauty": 86,
+      "Milk Makeup": 73
+    },
+    {
+      "month": "Apr",
+      "Glossier": 70,
+      "Rare Beauty": 88,
+      "Milk Makeup": 74
+    },
+    {
+      "month": "May",
+      "Glossier": 69,
+      "Rare Beauty": 88,
+      "Milk Makeup": 75
+    },
+    {
+      "month": "Jun",
+      "Glossier": 68,
+      "Rare Beauty": 88,
+      "Milk Makeup": 75
+    }
+  ],
+  "brand_attributes": [
+    {
+      "attribute": "Pigment",
+      "Glossier": 45,
+      "Rare Beauty": 95,
+      "Milk Makeup": 70
+    },
+    {
+      "attribute": "Blendability",
+      "Glossier": 90,
+      "Rare Beauty": 80,
+      "Milk Makeup": 75
+    },
+    {
+      "attribute": "Longevity",
+      "Glossier": 60,
+      "Rare Beauty": 85,
+      "Milk Makeup": 65
+    },
+    {
+      "attribute": "Packaging",
+      "Glossier": 85,
+      "Rare Beauty": 90,
+      "Milk Makeup": 80
+    },
+    {
+      "attribute": "Value",
+      "Glossier": 70,
+      "Rare Beauty": 85,
+      "Milk Makeup": 75
+    }
+  ],
+  "anomalies": [
+    {
+      "id": "anomaly_1_before",
+      "source": "Sephora Reviews",
+      "topic": "Glossier Cloud Paint (Sheer)",
+      "sentiment": "Negative",
+      "insight": "Increase in 'too sheer', 'not showing up' complaints. Users dropping off.",
+      "severity": "High",
+      "brand": "Glossier"
+    },
+    {
+      "id": "anomaly_2_before",
+      "source": "Reddit (r/MakeupAddiction)",
+      "topic": "Rare Beauty Soft Pinch",
+      "sentiment": "Positive",
+      "insight": "High engagement discussing 'intense pigment' & 'value for money'.",
+      "severity": "Medium",
+      "brand": "Rare Beauty"
+    }
+  ]
+}
