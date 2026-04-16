@@ -1,6 +1,13 @@
 # Glossier Market Intelligence Command Center
 
-Welcome to the Glossier Market Intelligence Dashboard! This project is a comprehensive data visualizer and strategy tool built for a final project at ESSEC Business School.
+Welcome to the Glossier Market Intelligence Dashboard! This project is a comprehensive data visualizer and strategy tool.
+# Glossier Command Center - Marketing Agents
+
+[![Live App](https://img.shields.io/badge/Live_App-Visit_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://glossiercommandcenter.vercel.app/)
+
+## Dashboard Preview
+
+![Dashboard Preview](./frontend/frontendPreview.png)
 
 ## What is this?
 
